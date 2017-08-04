@@ -1,0 +1,2 @@
+# Godspell-bot
+Bot
